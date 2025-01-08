@@ -31,6 +31,9 @@ services:
   gateway:
     image: gigarf2/kittygram_gateway
     env_file: .env
+    depends_on:
+      - backend
+      - frontend
     ports:
       - 9000:80
     volumes:
