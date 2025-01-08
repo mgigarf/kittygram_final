@@ -1,4 +1,4 @@
-![Статус пайплайна](https://github.com/mgigarf/kittygram_final/blob/main/.github/workflows/main.yml/badge.svg)
+[![Main Taski workflow](https://github.com/mgigarf/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/mgigarf/kittygram_final/actions/workflows/main.yml)
 
 # Описание проекта
 
@@ -26,7 +26,7 @@ https://github.com/mgigarf/kittygram_final/blob/main/docker-compose.yml
     POSTGRES_PASSWORD=пароль
     DB_NAME=имя базы
     DB_HOST=db
-    DB_PORT=5432(лучше оставить так)
+    DB_PORT=5432
     SECRET_KEY=ключ приложения
     DEBUG=true/false
     ALLOWED_HOSTS=разрешенные хосты
