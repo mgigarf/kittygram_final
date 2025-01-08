@@ -1,4 +1,4 @@
-![Статус пайплайна](https://github.com/mgigarf/kittygram_final/blob/main/.github/workflows/main.yml)
+![Статус пайплайна](https://github.com/mgigarf/kittygram_final/blob/main/.github/workflows/main.yml/badge.svg)
 
 # Описание проекта
 
